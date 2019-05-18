@@ -1,5 +1,5 @@
 
-##ARCore - Augmented Images
+## ARCore - Augmented Images
 
 This is a demo application of Augmented Images within Sceneform. The purpose of this demo is to demonstrate 3 unique images that are on top of cars and then Sceneform augments the camera to add labels to each of the cars. Furthermore, this app demonstrates that Augmented Images are now able to continue tracking after they leave the camera frame and allow the images found to move while still having the Augmented Content attached to it. 
 
