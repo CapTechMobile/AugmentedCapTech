@@ -1,0 +1,3 @@
+truck.png|truck.png|0.025
+blue_car.png|blue_car.png|0.026
+red_car.png|red_car.png|0.026

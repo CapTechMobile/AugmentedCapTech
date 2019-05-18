@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".CarLotActivity">
+
+
+    <fragment android:name="com.captech.augmentedcaptech.CarLotARFragment"
+              android:id="@+id/ar_fragment"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"/>
+
+
+    <ImageView
+            android:id="@+id/hint_prompt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/fit_to_scan"/>
+
+</FrameLayout>
